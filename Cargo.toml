@@ -1,0 +1,10 @@
+[package]
+name = "rust-train-server"
+version = "0.1.0"
+authors = ["Hernawan Fa'iz Abdillah <hernawan.faiz@abdillah.me>"]
+
+[dependencies]
+lazy_static = "1.2.0"
+time = "0.1.40"
+iron = "0.6.0"
+tera = "0.11.19"
